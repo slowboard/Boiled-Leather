@@ -1,17 +1,16 @@
-import os, re, shutil,sys,fileinput
+import os, re, shutil, sys, fileinput
 
-book = ["AFFC","ADWD"]			# The book names. Don't change these
-start = [0,5]					# The number of the prologue .html files
-# Mattias har ändrat raden över
-# AFFC prologen är i chapter000.html
-# ADWD prologen är i XXXX.html
+book = ["AFFC","AD0D"]			# The book names. Don't change these
+start = [0,0]					# The number of the prologue .html files
+								# AFFC prologue is in chapter000.html
+								# ADWD prologue is in chapter000.html
 
-og_file = "chapter"			# Original filename. Enter all letters before the enumeration.
+og_file = "chapter"				# Original filename. Enter all letters before the enumeration.
 
 padding = 3						# number of padded zeros
 length = [46, 73]				# Number of chapters in each book
-# Mattias: AFFC chapter000.html till chapter 045.html
-# Mattias: ADWD
+								# AFFC chapter000.html to chapter045.html
+								# ADWD chapter000.html to chapterXXX.html
 
 path = os.getcwd()				# Gets the path to the work folder (where this script is)
 outfolder = "%s/book/" % path	# Generates path to the output folder
