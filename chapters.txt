@@ -1,119 +1,119 @@
-Prologue (Varamyr): ADWD 1
-Prologue (Pate): AFFC 1
-The Prophet (Aeron I): AFFC 2
-The Captain of Guards (Areo I): AFFC 3
-Cersei I: AFFC 4
-Tyrion I: ADWD 2
-Daenerys I: ADWD 3
-Brienne I: AFFC 5
-Jon I: ADWD 4
-Bran I: ADWD 5
-Tyrion II: ADWD 6
-The Merchant’s Man (Quentyn I): ADWD 7
-Samwell I: AFFC 6
-Jon II: ADWD 8
-Arya I: AFFC 7
-Cersei II: AFFC 8
-Jaime I: AFFC 9
-Brienne II: AFFC 10
-Sansa I: AFFC 11
-The Kraken’s Daughter (Asha I): AFFC 12
-Tyrion III: ADWD 9
-Davos I: ADWD 10
-Jon III: ADWD 11
-Daenerys II: ADWD 12
-Reek I (Theon I): ADWD 13
-Cersei III: AFFC 13
-The Soiled Knight (Arys): AFFC 14
-Bran II: ADWD 14
-Tyrion IV: ADWD 15
-Davos II: ADWD 16
-Brienne III: AFFC 15
-Samwell II: AFFC 16
-Daenerys III: ADWD 17
-Jon IV: ADWD 18
-Jaime II: AFFC 17
-Tyrion V: ADWD 19
-Cersei IV: AFFC 18
-Davos III: ADWD 20
-The Iron Captain (Victarion I): AFFC 19
-The Drowned Man (Aeron II): AFFC 20
-Brienne IV: AFFC 21
-The Queenmaker (Arianne I): AFFC 22
-Arya II: AFFC 23
-Alayne I (Sansa II): AFFC 24
-Cersei V: AFFC 25
-Reek II (Theon II): ADWD 21
-Jon V: ADWD 22
-Tyrion VI: ADWD 23
-Daenerys IV: ADWD 24
-The Lost Lord (Jon Connington I): ADWD 25
-The Windblown (Quentyn II): ADWD 26
-The Wayward Bride (Asha II): ADWD 27
-Brienne V: AFFC 26
-Samwell III: AFFC 27
-Jaime III: AFFC 28
-Tyrion VII: ADWD 28
-Jon VI: ADWD 29
-Davos IV: ADWD 30
-Cersei VI: AFFC 29
-The Reaver (Victarion II): AFFC 30
-Daenerys V: ADWD 31
-Melisandre I: ADWD 32
-Jaime IV: AFFC 31
-Brienne VI: AFFC 32
-Reek III (Theon III): ADWD 33
-Tyrion VIII: ADWD 34
-Cersei VII: AFFC 33
-Jaime V: AFFC 34
-Cat of the Canals (Arya III): AFFC 35
-Samwell IV: AFFC 36
-Cersei VIII: AFFC 37
-Brienne VII: AFFC 38
-Jaime VI: AFFC 39
-Cersei IX: AFFC 40
-The Princess in the Tower (Arianne II): AFFC 41
-Bran III: ADWD 35
-Jon VII: ADWD 36
-Daenerys VI: ADWD 37
-The Prince of Winterfell (Theon IV): ADWD 38
-The Watcher (Areo II): ADWD 39
-Jon VIII: ADWD 40
-Tyrion IX: ADWD 41
-The Turncloak (Theon V): ADWD 42
-The King’s Prize (Asha III): ADWD 43
-Daenerys VII: ADWD 44
-Alayne II (Sansa III): AFFC 42
-Jon IX: ADWD 45
-Brienne VIII: AFFC 43
-Cersei X: AFFC 44
-Jaime VII: AFFC 45
-Samwell V: AFFC 46
-The Blind Girl (Arya IV): ADWD 46
-A Ghost in Winterfell (Theon VI): ADWD 47
-Tyrion X: ADWD 48
-Jaime VIII: ADWD 49
-Jon X: ADWD 50
-Daenerys VIII: ADWD 51
-Theon VII: ADWD 52
-Daenerys IX: ADWD 53
-Jon XI: ADWD 54
-Cersei XI: ADWD 55
-The Queensguard (Barristan I): ADWD 56
-The Iron Suitor (Victarion III): ADWD 57
-Tyrion XI: ADWD 58
-Jon XII: ADWD 59
-The Discarded Knight (Barristan II): ADWD 60
-The Spurned Suitor (Quentyn III): ADWD 61
-The Griffin Reborn (Jon Connington II): ADWD 62
-The Sacrifice (Asha IV): ADWD 63
-Victarion IV: ADWD 64
-The Ugly Little Girl (Arya V): ADWD 65
-Cersei XII: ADWD 66
-Tyrion XII: ADWD 67
-The Kingbreaker (Barristan III): ADWD 68
-The Dragontamer (Quentyn IV): ADWD 69
-Jon XIII: ADWD 70
-The Queen’s Hand (Barristan IV): ADWD 71
-Daenerys X: ADWD 72
-Epilogue (Kevan): ADWD 73
+Prologue_(Varamyr):_ADWD_1
+Prologue_(Pate):_AFFC_1
+The_Prophet_(Aeron_I):_AFFC_2
+The_Captain_of_Guards_(Areo_I):_AFFC_3
+Cersei_I:_AFFC_4
+Tyrion_I:_ADWD_2
+Daenerys_I:_ADWD_3
+Brienne_I:_AFFC_5
+Jon_I:_ADWD_4
+Bran_I:_ADWD_5
+Tyrion_II:_ADWD_6
+The_Merchant’s_Man_(Quentyn_I):_ADWD_7
+Samwell_I:_AFFC_6
+Jon_II:_ADWD_8
+Arya_I:_AFFC_7
+Cersei_II:_AFFC_8
+Jaime_I:_AFFC_9
+Brienne_II:_AFFC_10
+Sansa_I:_AFFC_11
+The_Kraken’s_Daughter_(Asha_I):_AFFC_12
+Tyrion_III:_ADWD_9
+Davos_I:_ADWD_10
+Jon_III:_ADWD_11
+Daenerys_II:_ADWD_12
+Reek_I_(Theon_I):_ADWD_13
+Cersei_III:_AFFC_13
+The_Soiled_Knight_(Arys):_AFFC_14
+Bran_II:_ADWD_14
+Tyrion_IV:_ADWD_15
+Davos_II:_ADWD_16
+Brienne_III:_AFFC_15
+Samwell_II:_AFFC_16
+Daenerys_III:_ADWD_17
+Jon_IV:_ADWD_18
+Jaime_II:_AFFC_17
+Tyrion_V:_ADWD_19
+Cersei_IV:_AFFC_18
+Davos_III:_ADWD_20
+The_Iron_Captain_(Victarion_I):_AFFC_19
+The_Drowned_Man_(Aeron_II):_AFFC_20
+Brienne_IV:_AFFC_21
+The_Queenmaker_(Arianne_I):_AFFC_22
+Arya_II:_AFFC_23
+Alayne_I_(Sansa_II):_AFFC_24
+Cersei_V:_AFFC_25
+Reek_II_(Theon_II):_ADWD_21
+Jon_V:_ADWD_22
+Tyrion_VI:_ADWD_23
+Daenerys_IV:_ADWD_24
+The_Lost_Lord_(Jon_Connington_I):_ADWD_25
+The_Windblown_(Quentyn_II):_ADWD_26
+The_Wayward_Bride_(Asha_II):_ADWD_27
+Brienne_V:_AFFC_26
+Samwell_III:_AFFC_27
+Jaime_III:_AFFC_28
+Tyrion_VII:_ADWD_28
+Jon_VI:_ADWD_29
+Davos_IV:_ADWD_30
+Cersei_VI:_AFFC_29
+The_Reaver_(Victarion_II):_AFFC_30
+Daenerys_V:_ADWD_31
+Melisandre_I:_ADWD_32
+Jaime_IV:_AFFC_31
+Brienne_VI:_AFFC_32
+Reek_III_(Theon_III):_ADWD_33
+Tyrion_VIII:_ADWD_34
+Cersei_VII:_AFFC_33
+Jaime_V:_AFFC_34
+Cat_of_the_Canals_(Arya_III):_AFFC_35
+Samwell_IV:_AFFC_36
+Cersei_VIII:_AFFC_37
+Brienne_VII:_AFFC_38
+Jaime_VI:_AFFC_39
+Cersei_IX:_AFFC_40
+The_Princess_in_the_Tower_(Arianne_II):_AFFC_41
+Bran_III:_ADWD_35
+Jon_VII:_ADWD_36
+Daenerys_VI:_ADWD_37
+The_Prince_of_Winterfell_(Theon_IV):_ADWD_38
+The_Watcher_(Areo_II):_ADWD_39
+Jon_VIII:_ADWD_40
+Tyrion_IX:_ADWD_41
+The_Turncloak_(Theon_V):_ADWD_42
+The_King’s_Prize_(Asha_III):_ADWD_43
+Daenerys_VII:_ADWD_44
+Alayne_II_(Sansa_III):_AFFC_42
+Jon_IX:_ADWD_45
+Brienne_VIII:_AFFC_43
+Cersei_X:_AFFC_44
+Jaime_VII:_AFFC_45
+Samwell_V:_AFFC_46
+The_Blind_Girl_(Arya_IV):_ADWD_46
+A_Ghost_in_Winterfell_(Theon_VI):_ADWD_47
+Tyrion_X:_ADWD_48
+Jaime_VIII:_ADWD_49
+Jon_X:_ADWD_50
+Daenerys_VIII:_ADWD_51
+Theon_VII:_ADWD_52
+Daenerys_IX:_ADWD_53
+Jon_XI:_ADWD_54
+Cersei_XI:_ADWD_55
+The_Queensguard_(Barristan_I):_ADWD_56
+The_Iron_Suitor_(Victarion_III):_ADWD_57
+Tyrion_XI:_ADWD_58
+Jon_XII:_ADWD_59
+The_Discarded_Knight_(Barristan_II):_ADWD_60
+The_Spurned_Suitor_(Quentyn_III):_ADWD_61
+The_Griffin_Reborn_(Jon_Connington_II):_ADWD_62
+The_Sacrifice_(Asha_IV):_ADWD_63
+Victarion_IV:_ADWD_64
+The_Ugly_Little_Girl_(Arya_V):_ADWD_65
+Cersei_XII:_ADWD_66
+Tyrion_XII:_ADWD_67
+The_Kingbreaker_(Barristan_III):_ADWD_68
+The_Dragontamer_(Quentyn_IV):_ADWD_69
+Jon_XIII:_ADWD_70
+The_Queen’s_Hand_(Barristan_IV):_ADWD_71
+Daenerys_X:_ADWD_72
+Epilogue_(Kevan):_ADWD_73

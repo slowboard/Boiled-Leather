@@ -42,14 +42,14 @@ for index, bookname in enumerate(book):
 		og_filename = "%s%s%s.html" % (folder, og_file, num)
 
 		# new filename
-		temp_name = "%s%s %d.html" % (outfolder, bookname, i-start[index]+1)
+		temp_name = "%s%s_%d.html" % (outfolder, bookname, i-start[index]+1)
 		shutil.copy(og_filename,temp_name)
 
 
 # Renaming chapters to fit boiled leather semi-chronological order
 for num, name in enumerate(chapters):
 	filename = "%s%s.html" % (outfolder, name)
-	newfile = "%s%d - %s.html" % (outfolder, num+1, name)
+	newfile = "%s%d_-_%s.html" % (outfolder, num+1, name)
 	os.rename(filename,newfile)
 
 
