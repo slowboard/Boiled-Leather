@@ -1,19 +1,25 @@
 import os, re, shutil,sys,fileinput
 
 book = ["AFFC","ADWD"]			# The book names. Don't change these
-start = [7,5]					# The number of the prologue .html files
-og_file = "index_split"			# Original filename "index_split_xxx.html"
+start = [0,5]					# The number of the prologue .html files
+# Mattias har ändrat raden över
+# AFFC prologen är i chapter000.html
+# ADWD prologen är i XXXX.html
+
+og_file = "chapter"			# Original filename. Enter all letters before the enumeration.
+
 padding = 3						# number of padded zeros
 length = [46, 73]				# Number of chapters in each book
-# stop = [52,77]
+# Mattias: AFFC chapter000.html till chapter 045.html
+# Mattias: ADWD
 
 path = os.getcwd()				# Gets the path to the work folder (where this script is)
-outfolder = "%s\\book\\" % path	# Generates path to the output folder
+outfolder = "%s/book/" % path	# Generates path to the output folder
 
 
 
 # Getting a list of the chapters
-f = open("%s\\chapters.txt" % path)
+f = open("%s/chapters.txt" % path)
 s = f.read()
 
 chapters = []
@@ -28,13 +34,14 @@ for i in string:
 for index, bookname in enumerate(book):
 
 	# Folder name for original files
-	folder = "%s\\%s\\" % (path,bookname)
+	folder = "%s/%s/" % (path,bookname)
 
 	# Copying and renaming chapters
 	for i in range(start[index],start[index]+length[index]):
 		# Getting original filename
 		num = str(i).zfill(padding)
-		og_filename = "%s%s_%s.html" % (folder, og_file, num)
+		og_filename = "%s%s%s.html" % (folder, og_file, num)
+
 		# new filename
 		temp_name = "%s%s %d.html" % (outfolder, bookname, i-start[index]+1)
 		shutil.copy(og_filename,temp_name)
