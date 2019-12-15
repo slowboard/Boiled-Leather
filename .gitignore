@@ -2,7 +2,11 @@
 sök och ersätt.txt
 
 ADWD
+ADWD_orig
 AFFC
 
 book/
+images
 merge
+
+*.css
